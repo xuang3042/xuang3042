@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/kumamon-runner.gif" alt="kumamon" /></p>
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+- ✍ I'm a developer of YVS: [(https://votivasoft.com/)].
 
 - 🌱 I’m currently learning **Data Engineer**
 
